@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* CSS Document */
+
+.topo{width: 1396px;
+	height: 117px;
+	background-color: #024a5e;
+}
+
+.fundo-video1{width: 1396px;
+	height: 491px;
+	background-color: #ebebeb;
+}
+
+.video1{width: 616px;
+	height: 363px;
+	background-color: #cccccc;
+}
+
+.fundo-dubai{background-image:url(../img/fundo-dubai.jpg);
+	width: 1396px;
+	height: 521px;
+}
+
+.titulo-dubai{width: 376px;
+	height: 26px;
+	font-family: FiraSans;
+	color: #ffffff;
+	font-size: 36px;
+	font-weight: 400;
+}
+
+.logo-dubai{width: 320px;
+	height: 109px;
+	font-family: Impact;
+	color: #ff0000;
+	font-size: 166.67px;
+	font-weight: 400;
+	line-height: 91.084px;
+	transform: scale(0.808,0.809);
+}
+
+.titulo-periodo{width: 242px;
+	height: 25px;
+	font-family: FiraSans;
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.fundo-periodo{width: 170px;
+	height: 22px;
+	background-color: #151515;
+}
+
+.conteudo-periodo{width: 161px;
+	height: 17px;
+	font-family: FiraSans;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.titulo-data{width: 174px;
+	height: 25px;
+	font-family: FiraSans;
+	color: #ffffff;
+	font-size: 24px;
+	font-weight: 700;
+}
+
+.conteudo-data{width: 164px;
+	height: 17px;
+	font-family: FiraSans;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.fundo-data{width: 170px;
+	height: 22px;
+	background-color: #151515;
+}
+
+.titulo-formas{width: 528px;
+	height: 23px;
+	font-family: FiraSans;
+	font-size: 31px;
+	font-weight: 400;
+	color: #969696;
+}
+
+.titulo-pp{width: 187px;
+	height: 18px;
+	font-family: FiraSans;
+	color: #0e9ec5;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.texto-pp{width: 548px;
+	height: 61px;
+	font-family: FiraSans;
+	color: #a1a1a1;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.video-pp{width: 387px;
+	height: 215px;
+	background-color: #737373;
+}
+
+.linha-pp{width: 970px;
+	height: 1px;
+	background-color: #b8b8b8;
+}
+
+.titulo-sp{width: 189px;
+	height: 18px;
+	font-family: FiraSans;
+	color: #0e9ec5;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.texto-sp{width: 548px;
+	height: 61px;
+	font-family: FiraSans;
+	color: #a1a1a1;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.video-sp{width: 387px;
+	height: 215px;
+	background-color: #737373;
+}
+
+.linha-sp{width: 970px;
+	height: 1px;
+	background-color: #b8b8b8;
+}
+
+.titulo-tp{width: 189px;
+	height: 18px;
+	font-family: FiraSans;
+	color: #0e9ec5;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.texto-tp{width: 548px;
+	height: 61px;
+	font-family: FiraSans;
+	color: #a1a1a1;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.video-tp{width: 387px;
+	height: 215px;
+	background-color: #737373;
+}
+
+.linha-tp{width: 970px;
+	height: 1px;
+	background-color: #b8b8b8;
+}
+
+.titulo-qp{width: 189px;
+	height: 18px;
+	font-family: FiraSans;
+	color: #0e9ec5;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.texto-qp{width: 548px;
+	height: 61px;
+	font-family: FiraSans;
+	color: #a1a1a1;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.video-qp{width: 387px;
+	height: 215px;
+	background-color: #737373;
+}
+
+.linha-qp{width: 970px;
+	height: 1px;
+	background-color: #b8b8b8;
+}
+
+.titulo-op{width: 189px;
+	height: 18px;
+	font-family: FiraSans;
+	color: #0e9ec5;
+	font-size: 25px;
+	font-weight: 600;
+}
+
+.texto-op{width: 548px;
+	height: 61px;
+	font-family: FiraSans;
+	color: #a1a1a1;
+	font-size: 18px;
+	font-weight: 400;
+}
+
+.video-op{width: 387px;
+	height: 215px;
+	background-color: #737373;
+}
+
+.fundo-cadastro{width: 1396px;
+	height: 551px;
+	background-color: #ebebeb;
+}
+
